@@ -2,6 +2,9 @@
 
 This privacy policy governs your use of the Compound Gain app that was created by Tiny App Store. The Application lets you to calculate the daily compound interest and see how much daily interest/earnings you might receive on your investment over a fixed number of days. You may find this app useful if you are a day trader.
 
+### In-App Purchases (IAP)
+The App uses RevenueCat to manage in-app purchases (IAP). RevenueCat facilitates the processing and verification of purchases made through the App. In-app purchases are processed through Apple's payment system, and RevenueCat does not have access to your full payment information. RevenueCat only receives non-identifiable information necessary to validate and manage your purchase status, such as purchase receipts. We use RevenueCat to track and validate active subscriptions, as well as to ensure access to content or features based on your purchase history. Any payment data collected during in-app purchases is handled directly by Apple, and we do not store or have access to your payment details.
+
 ### Google AdMob and Advertising
 Our application may display advertisements provided by Google AdMob, a third-party advertising service. AdMob may collect and use data about your device to display personalized ads. This data collection and usage are governed by AdMob's privacy policy. Admob may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, and information about the way you use the application.
 
